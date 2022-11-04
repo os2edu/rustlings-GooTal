@@ -1,11 +1,8 @@
 // variables4.rs
-// Execute `rustlings hint variables4` or use the `hint` watch subcommand for a hint.
+// Make me compile! Execute the command `rustlings hint variables4` if you want a hint :)
 
-// I AM NOT DONE
 
 fn main() {
-    let x = 3;
-    println!("Number {}", x);
-    x = 5; // don't change this line
+    let x: i32=250;
     println!("Number {}", x);
 }
